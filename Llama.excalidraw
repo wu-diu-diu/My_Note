@@ -4685,11 +4685,11 @@
         "type": 2
       },
       "seed": 638429172,
-      "version": 18,
-      "versionNonce": 2078942668,
+      "version": 19,
+      "versionNonce": 170923752,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1740023407214,
+      "updated": 1741765893186,
       "link": null,
       "locked": false,
       "points": [
@@ -6758,7 +6758,7 @@
       "version": 80,
       "versionNonce": 944051748,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1741175251874,
       "link": null,
       "locked": false,
